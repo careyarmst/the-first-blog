@@ -1,0 +1,8 @@
+save this command
+django220\Scripts\activate
+
+python manage.py runserver in the console to run the web server. Go to your browser and type the address http://127.0.0.1:8000/admin/. You will see a login page like this:
+
+git config --global user.name "Carey Armstrong"
+git config --global user.email careyarmst@earthlink.net
+
